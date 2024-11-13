@@ -1,0 +1,1087 @@
+[
+    {
+        "rating": 5,
+        "text": "This product is amazing! I absolutely love it. Highly recommended!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "Not bad, but I expected more for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "Worst purchase ever. Completely useless. Will never buy again.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Decent quality for the price. Could be better.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "I love this! It exceeded my expectations in every way.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "This is okay, but I wouldn't buy it again.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "Terrible! Doesn't work as described. Very disappointing.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "Good value for the money. Does what it's supposed to do.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Fantastic! Totally worth the price, I highly recommend.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "Not great, but it's usable. Wouldn't say it's awful.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "I'm really happy with this product. It works great.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "This is a waste of money. I regret buying it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "So good! I'm impressed with the quality and functionality.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "Very poor quality. Definitely not worth the price.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "Excellent product! Would buy again in a heartbeat.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay, but I expected better quality for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "Horrible. Broke within a day of use.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "Love it! It fits perfectly and does what I need.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 2,
+        "text": "This was a terrible purchase. I regret it so much.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "I don't like it. It didn't meet my expectations.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "I'm not impressed with the quality. I would not recommend.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Not the best, but it works fine.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "This product exceeded my expectations. I would buy again.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but I've used worse.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "I would never buy this again. It's horrible.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I don't hate it, but it didn't live up to the hype.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "It's amazing. Absolutely love it!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "I don't love it, but it's not bad either.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "The product is awful. Don't waste your money.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "This is exactly what I was looking for! So happy with it.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "Not a bad purchase, but I was expecting more.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "This is a complete waste of money. Very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's fine, but could be improved.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "The product did not meet my expectations at all. Very poor.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Not exactly what I wanted, but it's good enough for now.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay, but I've had better.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "This product is excellent! Highly recommended!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I'm happy with it. Works great!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "Not great, not bad. Just okay.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "Worst experience ever. I want a refund.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I expected more, but it's not terrible.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "This is a really bad product. Don't waste your money.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I'm really satisfied with this product. Worth every penny.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "I thought this would be better, but it's not terrible.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "Horrible. Terrible customer service too.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I don't love it, but it's okay for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "Great product! Highly recommend to everyone!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "This is an amazing buy. Would definitely purchase again.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but it's not bad either.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "This was a terrible decision. I regret buying it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I would not call this great, but it's decent for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "Not the best, but it gets the job done.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "I'm very satisfied. This product exceeded my expectations!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 2,
+        "text": "The worst purchase I've ever made. Stay away from this.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's decent, not great though.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I thought it would be better quality. Very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "This was a good choice. I'm happy with the purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "I was hoping for more, but it works okay.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "Great value for the price. Very happy with this product.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 2,
+        "text": "Worst thing I've ever bought. Avoid it at all costs.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not bad, but I wouldn't buy it again.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "I wasn't expecting much, but this exceeded my expectations.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 2,
+        "text": "This is hands down the worst thing I've ever bought.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "The quality is subpar. This was a bad investment.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "I really like this! It's just perfect for what I needed.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I'm so glad I bought this, it's been a game-changer.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "I was disappointed with the quality, but the customer service was good.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "This is a great product for the price. Can't complain!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "The worst purchase ever. Wouldn't recommend to anyone.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It works well enough, but there are definitely better options out there.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I had high hopes, but this product just didn't deliver.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "This is just okay. I've had better products for less money.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not perfect, but it's definitely good enough.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "Honestly, it's just not worth the money. Total disappointment.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "The item was damaged when it arrived. Very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "This is exactly what I needed. I can't believe how well it works.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "Not terrible, but not great either. Could be improved.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "The build quality is bad, and it broke after a few uses.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not awful, but I wouldn't buy it again.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I regret buying this. It's cheap and doesn't work as advertised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I don't usually leave reviews, but I'm so happy with this product!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "The product looked good at first, but it broke after a week.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "This product is amazing, and the support team was very helpful.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 2,
+        "text": "The material feels cheap and flimsy. Not what I was expecting.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's a decent product for the price. Nothing spectacular.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I really don't like it. I want to return it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "Definitely not worth the money. Very unhappy with this purchase.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "The product performs just as described. Very pleased with my purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It works okay, but I had to fiddle with it a lot to get it right.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay, but it doesn't live up to the hype.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "This was a great purchase. I am very satisfied with the quality.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's not a great product, but it's better than other options I've tried.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "I'm impressed by the build quality. This is worth every penny.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "The design is nice, but the functionality is lacking.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "The battery life is terrible. I regret buying this.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "It arrived late and was broken. Worst online purchase ever.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I love it. It's perfect for what I need.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but it gets the job done.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "This product is incredibly flimsy. I wouldn't recommend it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not exactly what I was hoping for, but it's fine.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay for basic tasks, but don't expect anything beyond that.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "Really disappointed with the quality. I'll be returning it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I bought this as a gift, and the recipient loves it.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "The product doesn't work as described. Very disappointing.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I'm indifferent about this product. It works, but I'm not impressed.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "This product is fantastic. I would definitely buy it again.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's good, but I expected more for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "The quality isn't great, and the performance is average at best.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "I don't hate it, but I definitely don't love it either.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 5,
+        "text": "Totally worth the money! I'm really happy with my purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "The product is decent, but I had trouble setting it up.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I wish it were better. Not worth the cost.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It looks nice, but I had a few issues with it not working properly.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "Excellent product. Everything works perfectly, and it's very well-made.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's good for the price, but don't expect it to be top-tier.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "I'm not happy with this purchase. It didn't meet my expectations.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I love this! It's definitely worth the money.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "I'm a little disappointed with the size. I was expecting something bigger.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "This item arrived damaged, and customer service was no help.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's a great product, but I wish the instructions were clearer.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "I'm impressed. It works better than I thought it would.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 3,
+        "text": "It's not what I expected, but it's still decent for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "Definitely not worth it. I'm very dissatisfied.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "It's fantastic! Exceeded my expectations in every way.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "I didn't like it at all. It's not what was promised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 4,
+        "text": "I would recommend this to anyone looking for a simple solution.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "Not impressed at all. It didn't work like advertised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 5,
+        "text": "Best purchase I've made all year. I absolutely love it!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "It didn't live up to the hype. I'm disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "Not good at all. Would not recommend.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Not terrible, but certainly not great either.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not the best product, but it's okay for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I wasn't impressed. It's not as good as advertised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "Not worth the money. Very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not as good as I expected, but still decent.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "This product didn't live up to the hype. I'm not happy with it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "The product is not as described. Not happy with it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "I didn't like it. It's not as advertised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "Not what I expected at all. Very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Not bad, but I expected a lot more for the price.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not ideal, but it's functional.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 2,
+        "text": "I don't think it's that good. Wouldn't recommend it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but it's okay if you're on a budget.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great quality, but it works for what I need.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "Not worth the hype. Would not buy again.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "It's not good enough to justify the price.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "Not the best, but I've seen worse.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not terrible, but I expected more based on the reviews.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "I don't like it at all. Not worth buying.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "This product is not up to my standards. Very disappointing.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay, but I feel like I wasted my money.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not bad, but it definitely could be improved.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great quality, but it's good enough for casual use.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "I don't think I'll be buying this again. Not impressed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but it gets the job done.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not good for professional use, but it works for occasional use.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "Not terrible, but definitely not something I would recommend.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "Not great, not bad. It's somewhere in between.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "This is not a good product. Wouldn't recommend it to anyone.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "I'm not satisfied with this product. It's just not good.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "This is not a great product. I would not buy it again.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "Not impressed at all. It's just not good enough for the price.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not amazing, but it's alright for everyday use.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 1,
+        "text": "It's not what I thought it would be. Not great.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "Not great. The product doesn't work as advertised.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "Not what I expected. The quality is lacking.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's not great, but I've had worse products.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 4,
+        "text": "This product is a game-changer. I couldn't be happier!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Fantastic quality! I will definitely buy this again.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "I'm so impressed with this! It works perfectly for me.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This is the best purchase I've made in a long time.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Absolutely love this product! Highly recommend to everyone.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I can't believe how well this works. Truly amazing!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "This product exceeded all my expectations. Worth every penny!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I'm thrilled with this purchase. It's exactly what I needed!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "Exceptional quality and performance. I'm very satisfied!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I'm extremely happy with this product. It does exactly what I wanted!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This is an outstanding product! I would buy it again in a heartbeat.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Love this! It has made my life so much easier.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "This product is simply fantastic! Very happy with my decision to buy.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I've tried many products, but this one is by far the best.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This product has transformed my daily routine. I highly recommend it!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "So glad I bought this! It's exceeded my expectations.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Amazing product! I can't recommend it enough.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This is a must-have! I'm completely satisfied with it.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "Incredible! It has made a noticeable difference.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "Best decision I made this year! I'm so pleased with this product.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "This product is really good! It works perfectly for what I need.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "I think this is a good choice for anyone looking for value.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "Very good product! I'm really pleased with the quality.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "It's a good option if you're on a budget. I'm happy with my purchase.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This has been a good investment. I would definitely recommend it!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "I found this product to be good and effective. Worth every penny!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "Good quality and performance! Exceeded my expectations.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "It's a good buy for the price. I would recommend it to friends.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 4,
+        "text": "This is a good product that delivers on its promises.",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 5,
+        "text": "I really enjoy using this. It's good for everyday tasks!",
+        "sentiment": "positive"
+    },
+    {
+        "rating": 1,
+        "text": "This product is not good at all. I was very disappointed.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "It's not good enough for my needs. I wouldn't recommend it.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "I had high hopes, but this product is actually quite bad.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "It's not a good product, and I'm really unhappy with my purchase.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "Not good. It broke after just a few uses.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "This item is not good. It failed to perform as expected.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 2,
+        "text": "I regret buying this. It's just not a good product.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "This was a bad experience. The product did not work well.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "I don't like this product. It's not good at all.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 1,
+        "text": "It's really not good. Save your money.",
+        "sentiment": "negative"
+    },
+    {
+        "rating": 3,
+        "text": "It's good, but it could be improved in a few areas.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "This product is decent, but nothing special.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's neither good nor bad. Just an average product.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's okay for the price, but not particularly good.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "This is a neutral product. It gets the job done, but that's about it.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "Not bad, but I've seen better. It's just okay.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's good for casual use, but I wouldn't rely on it for heavy tasks.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "This product is alright, but I expected something better.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "It's not a great product, but it's not terrible either.",
+        "sentiment": "neutral"
+    },
+    {
+        "rating": 3,
+        "text": "I'm indifferent about this one. It's just good enough.",
+        "sentiment": "neutral"
+    }
+]
